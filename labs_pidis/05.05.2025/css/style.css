@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+
+.header_img {
+    width: 180px;
+}
+
+
+.link_header {
+    text-align: center;
+}
+
+
+.btn_header {
+    text-align: right
+}
